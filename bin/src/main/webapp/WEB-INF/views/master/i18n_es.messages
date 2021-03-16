@@ -16,8 +16,7 @@ master.banner.background = #FFE97F
 
 master.welcome.title = ¡Bienvenidos!
 master.welcome.text = \
-	Bienvenidos a Acme Stater!  Nunca antes ha sido tan sencillo desarrollar un \
-	proyecto y hacerlo funcionar.
+	Bienvenidos a Acme One!
 
 # master.menu #################################################################
 
@@ -30,8 +29,10 @@ master.menu.sign-out = Salir
 
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Enlace favorito
-master.menu.diego.favourite-link = Enlace favorito de Diego
-master.menu.gonzalo.favourite-link = Enlace favorito de Gonzalo
+master.menu.diego.favourite-link = Enlace favorito de Gil
+master.menu.gonzalo.favourite-link = Enlace favorito de Lallena
+master.menu.blanca.favourite-link = Enlace favorito de Mauri
+master.menu.benjamin.favourite-link = Enlace favorito de Crespo
 
 # master.menu.administrator ###################################################
 
