@@ -18,6 +18,10 @@ label {
 	font-weight: bold;
 }
 
+.banner-background{
+	background-color: #0288d1
+}
+
 .form-control:disabled, 
 .form-control[readonly] {
 	border: 0px;
