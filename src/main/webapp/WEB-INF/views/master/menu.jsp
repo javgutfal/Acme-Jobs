@@ -24,6 +24,7 @@
 			<acme:menu-suboption code="master.menu.gonzalo.favourite-link" action="http://www.gmail.com/"/>
 			<acme:menu-suboption code="master.menu.blanca.favourite-link" action="https://sparkar.facebook.com/ar-studio/"/>
 			<acme:menu-suboption code="master.menu.benjamin.favourite-link" action="https://www.youtube.com/"/>
+			<acme:menu-suboption code="master.menu.javier.favourite-link" action="https://www.omfgdogs.com"/>
 			<acme:menu-suboption code="master.menu.laura.favourite-link" action="https://www.netflix.com/"/>
 		</acme:menu-option>
 		
