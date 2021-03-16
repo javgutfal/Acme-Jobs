@@ -22,6 +22,7 @@
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
 			<acme:menu-suboption code="master.menu.diego.favourite-link" action="https://www.artstation.com/?sort_by=community"/>
 			<acme:menu-suboption code="master.menu.gonzalo.favourite-link" action="http://www.gmail.com/"/>
+			<acme:menu-suboption code="master.menu.blanca.favourite-link" action="https://sparkar.facebook.com/ar-studio/"/>
 		</acme:menu-option>
 		
 		
