@@ -20,12 +20,8 @@
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
-			<acme:menu-suboption code="master.menu.diego.favourite-link" action="https://www.artstation.com/?sort_by=community"/>
-			<acme:menu-suboption code="master.menu.gonzalo.favourite-link" action="http://www.gmail.com/"/>
 			<acme:menu-suboption code="master.menu.blanca.favourite-link" action="https://sparkar.facebook.com/ar-studio/"/>
-			<acme:menu-suboption code="master.menu.benjamin.favourite-link" action="https://www.youtube.com/"/>
 			<acme:menu-suboption code="master.menu.javier.favourite-link" action="https://www.omfgdogs.com"/>
-			<acme:menu-suboption code="master.menu.laura.favourite-link" action="https://www.netflix.com/"/>
 		</acme:menu-option>
 		
 		
@@ -40,14 +36,14 @@
 
 		<acme:menu-option code="master.menu.provider" access="hasRole('Provider')">
 			<acme:menu-suboption code="master.menu.provider.favourite-link" action="http://www.example.com/"/>
-			<acme:menu-suboption code="master.menu.diego.favourite-link" action="https://www.artstation.com/?sort_by=community"/>
-			<acme:menu-suboption code="master.menu.benjamin.favourite-link" action="https://www.youtube.com/"/>
+			<acme:menu-suboption code="master.menu.blanca.favourite-link" action="https://sparkar.facebook.com/ar-studio/"/>
+			<acme:menu-suboption code="master.menu.javier.favourite-link" action="https://www.omfgdogs.com"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.consumer" access="hasRole('Consumer')">
 			<acme:menu-suboption code="master.menu.consumer.favourite-link" action="http://www.example.com/"/>
-			<acme:menu-suboption code="master.menu.diego.favourite-link" action="https://www.artstation.com/?sort_by=community"/>
-			<acme:menu-suboption code="master.menu.benjamin.favourite-link" action="https://www.youtube.com/"/>
+			<acme:menu-suboption code="master.menu.blanca.favourite-link" action="https://sparkar.facebook.com/ar-studio/"/>
+			<acme:menu-suboption code="master.menu.javier.favourite-link" action="https://www.omfgdogs.com"/>
 		
 		</acme:menu-option>
 	</acme:menu-left>
